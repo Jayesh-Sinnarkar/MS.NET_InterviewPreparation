@@ -1,0 +1,15 @@
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\AccountManagement.csproj.AssemblyReference.cache
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\AccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\AccountManagement.AssemblyInfoInputs.cache
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\AccountManagement.AssemblyInfo.cs
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\AccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\bin\Debug\net7.0\AccountManagement.exe
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\bin\Debug\net7.0\AccountManagement.deps.json
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\bin\Debug\net7.0\AccountManagement.runtimeconfig.json
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\bin\Debug\net7.0\AccountManagement.dll
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\bin\Debug\net7.0\AccountManagement.pdb
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\AccountManagement.dll
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\refint\AccountManagement.dll
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\AccountManagement.pdb
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\AccountManagement.genruntimeconfig.cache
+C:\Users\jayes\OneDrive\Desktop\C#\AccountManagement\obj\Debug\net7.0\ref\AccountManagement.dll
