@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "EmailDescription";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Email Description</title>
+</head>
+<body>
+    @using (Html.BeginForm("SendEmail", "Email", FormMethod.Post))
+    {
+        <div>
+            <textarea name="txtParagraph" rows="5" cols="40"></textarea>
+            <br />
+            <input type="submit" value="Send Email" />
+        </div>
+    }
+</body>
+</html>
+
+
